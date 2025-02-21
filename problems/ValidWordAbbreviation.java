@@ -31,6 +31,8 @@ class ValidWordAbbreviation {
             }
         }
 
+        Math.
+
         // A abreviação só é válida se ambos os índices chegarem ao final ao mesmo tempo
         return wordIndex == word.length();
     }
